@@ -106,19 +106,22 @@ The generated image was successfully returned by the inference API and automatic
 
 ### Workflow
 
-![n8n Workflow](./assets/workflow.png)
+https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/blob/main/the%20entire%20workflow.png
 
 The complete n8n workflow connecting the trigger, image-generation API, and Google Drive.
 
 ### HTTP Request
 
-![HTTP Request](./assets/http-request.png)
+https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/blob/main/parameters%20of%20the%20HTTP%20request%20node%20(1).png
+
+https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/blob/main/parameters%20of%20the%20HTTP%20request%20node%20(2).png
 
 The HTTP Request node sends the prompt to the Hugging Face FLUX.1-schnell inference endpoint and receives the generated image.
 
 ### Google Drive Output
 
-![Google Drive Output](./assets/google-drive-output.png)
+https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/blob/main/image%20saved%20in%20google%20drive.png
+
 
 The generated image is automatically uploaded to Google Drive after the API request completes successfully.
 

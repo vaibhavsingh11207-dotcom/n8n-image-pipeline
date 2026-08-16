@@ -16,7 +16,7 @@ A recorded demonstration of the workflow is included in this repository.
 
 ## 🧠 How It Works
 
-The workflow consists of three main stages:
+The workflow consists of four main stages:
 
 ```text
 Text Prompt

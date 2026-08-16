@@ -1,9 +1,4 @@
-# n8n-image-generation-bot
-An n8n workflow that automates AI image generation using Hugging Face FLUX.1-schnell and automatically uploads the generated images to Google Drive.
-
-
-
-# n8n Image Generation Bot
+# n8n Image Pipeline
 
 An AI image-generation automation workflow built with **n8n**, **Hugging Face FLUX.1-schnell**, and **Google Drive**.
 

@@ -97,7 +97,7 @@ man sailing a ship
 
 The generated image was successfully returned by the inference API and automatically uploaded to Google Drive.
 
-generated image.png
+[generated image.png](https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/blob/main/generated%20image.png)
 
 
 ---

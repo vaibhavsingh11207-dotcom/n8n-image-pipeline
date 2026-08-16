@@ -97,7 +97,8 @@ man sailing a ship
 
 The generated image was successfully returned by the inference API and automatically uploaded to Google Drive.
 
-![Generated Image](./assets/generated-image.png)
+![Uploading image.png…]()
+
 
 ---
 

@@ -178,6 +178,8 @@ This project provided practical experience with:
 
 ## 👨‍💻 Project
 
-**Project:** n8n Image Generation Bot
-**Purpose:** AI image-generation automation
-**Status:** Completed prototype / archived demonstration
+Project: n8n Image Generation Bot
+
+Purpose: AI image-generation automation
+
+Status: Completed prototype / archived demonstration

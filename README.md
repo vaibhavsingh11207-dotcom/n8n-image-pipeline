@@ -10,7 +10,8 @@ The workflow sends a text prompt to an AI image-generation model through an HTTP
 
 A recorded demonstration of the workflow is included in this repository.
 
-**[▶ Watch the Demo](./assets/demo.mp4)**
+
+https://github.com/vaibhavsingh11207-dotcom/n8n-image-pipeline/raw/refs/heads/main/demo%20of%20how%20the%20workflow%20works.mp4
 
 ---
 
